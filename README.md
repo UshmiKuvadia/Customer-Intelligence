@@ -19,8 +19,6 @@ The primary goal of this project was to identify and leverage key opportunities 
 - **Data Visualization**: Created visual representations of data findings to effectively communicate insights and recommendations to stakeholders.
 - **Actionable Recommendations**: Provided practical recommendations based on data analysis to help stakeholders implement changes that enhance customer engagement.
 
-## How to Use This Repository
+## How To View This
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/UshmiKuvadia/Customer-Intelligence.git
+**Click Here:** https://github.com/UshmiKuvadia/Customer-Intelligence/commit/09349da484efec899627d095d37fc27d6ddff7d8 
